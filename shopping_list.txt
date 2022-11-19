@@ -1,0 +1,19 @@
+This is a shopping list:
+carrots
+banan
+egg
+potato
+sallad
+tomatoes
+cucumber
+cheese
+bread
+yogurth
+milk
+meat
+tacoshells
+taco sauce
+icecream
+candy
+red wine
+
